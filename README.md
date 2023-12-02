@@ -14,7 +14,7 @@ def hello_world():
 
 ## About Me
 
-- ✨ I program... sometimes
+- ✨ Hi! I'm a Junior Developer in Support at @15below and a 3rd-year Computer Science Student studying at the University of Sussex. I also program... sometimes! 
 
 ## Important Links
 

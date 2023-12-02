@@ -1,4 +1,4 @@
-# Welcome to my git! 😲
+# Welcome to my git!
 
 I'm still getting the hang of this, bear with me 🤔
 
@@ -9,12 +9,11 @@ I'm still getting the hang of this, bear with me 🤔
 
 ## Stuff
 
-- ✨ Awesome feature 1
-- ✨ Awesome feature 2
+- ✨ I program... sometimes
 
-## Important Links
+## Important
 
-https://www.youtube.com/shorts/Ag1IUXyK8IY
+- 📺 https://www.youtube.com/shorts/Ag1IUXyK8IY
 
 <!--
 **Freddie-Clarke/Freddie-Clarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

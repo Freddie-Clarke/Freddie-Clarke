@@ -2,6 +2,11 @@
 
 I'm still getting the hang of this, bear with me 🤔
 
+```python
+def hello_world():
+    print("Hello, World!")
+```
+
 ## Table of Contents
 
 - [About Me](#about-me)

@@ -1,28 +1,20 @@
-### Hi there 👋
+# Welcome to my git! 😲
 
-# Project Title
-
-A brief description of your awesome project.
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg)](https://github.com/your-username/your-repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo.svg)](https://github.com/your-username/your-repo/network)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo.svg)](https://github.com/your-username/your-repo/issues)
+I'm still getting the hang of this, bear with me 🤔
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Stuff](#stuff)
+- [Important Links](#importantlinks)
 
-## Features
+## Stuff
 
 - ✨ Awesome feature 1
 - ✨ Awesome feature 2
-- ✨ ...
 
+## Important Links
+
+https://www.youtube.com/shorts/Ag1IUXyK8IY
 
 <!--
 **Freddie-Clarke/Freddie-Clarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

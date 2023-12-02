@@ -5,7 +5,7 @@ I'm still getting the hang of this, bear with me 🤔
 ## Table of Contents
 
 - [Stuff](#stuff)
-- [Important Links](#important_links)
+- [Important Links](#important)
 
 ## Stuff
 

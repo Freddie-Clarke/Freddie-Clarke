@@ -4,14 +4,14 @@ I'm still getting the hang of this, bear with me 🤔
 
 ## Table of Contents
 
-- [Stuff](#stuff)
-- [Important Links](#important)
+- [About Me](#about-me)
+- [Important Links](#important-links)
 
-## Stuff
+## About Me
 
 - ✨ I program... sometimes
 
-## Important
+## Important Links
 
 - 📺 https://www.youtube.com/shorts/Ag1IUXyK8IY
 

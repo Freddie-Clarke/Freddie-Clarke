@@ -2,6 +2,10 @@
 
 I'm still getting the hang of this, bear with me 🤔
 
+[![GitHub stars](https://img.shields.io/github/stars/Freddie-Clarke/your-repo.svg)](https://github.com/Freddie-Clarke/your-repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Freddie-Clarke/your-repo.svg)](https://github.com/Freddie-Clarke/your-repo/network)
+[![GitHub issues](https://img.shields.io/github/issues/Freddie-Clarke/your-repo.svg)](https://github.com/Freddie-Clarke/your-repo/issues)
+
 ## Table of Contents
 
 - [About Me](#about-me)

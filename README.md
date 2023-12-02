@@ -11,6 +11,7 @@ def hello_world():
 
 - [About Me](#about-me)
 - [Important Links](#important-links)
+- [Advent of Code](#advent-of-code)
 
 ## About Me
 
@@ -19,6 +20,10 @@ def hello_world():
 ## Important Links
 
 - 📺 https://www.youtube.com/shorts/Ag1IUXyK8IY
+
+## Advent of Code
+
+- 🎅 https://adventofcode.com/2023
 
 <!--
 **Freddie-Clarke/Freddie-Clarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

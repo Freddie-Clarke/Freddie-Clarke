@@ -2,10 +2,7 @@
 
 I'm still getting the hang of this, bear with me 🤔
 
-[![GitHub repos](https://img.shields.io/github/repositories/Freddie-Clarke/Freddie-Clarke.svg)](https://github.com/Freddie-Clarke/Freddie-Clarke/repositories)
-[![GitHub repos](https://img.shields.io/github/stars/Freddie-Clarke/Freddie-Clarke.svg)](https://github.com/Freddie-Clarke/Freddie-Clarke/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Freddie-Clarke/Freddie-Clarke.svg)](https://github.com/Freddie-Clarke/Freddie-Clarke/network)
-[![GitHub issues](https://img.shields.io/github/issues/Freddie-Clarke/Freddie-Clarke.svg)](https://github.com/Freddie-Clarke/Freddie-Clarke/issues)
 
 ## Table of Contents
 

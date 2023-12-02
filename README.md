@@ -2,8 +2,6 @@
 
 I'm still getting the hang of this, bear with me 🤔
 
-[![GitHub forks](https://img.shields.io/github/forks/Freddie-Clarke/Freddie-Clarke.svg)](https://github.com/Freddie-Clarke/Freddie-Clarke/network)
-
 ## Table of Contents
 
 - [About Me](#about-me)

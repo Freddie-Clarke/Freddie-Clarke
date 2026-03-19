@@ -12,7 +12,7 @@ def hello_world():
 
 ## About Me
 
-- ✨ Hi! I'm a Developer in Support at 15below and a Computer Science graduate from the University of Sussex. I also program... sometimes! 
+- Hi! I'm a Software Analyst for Sussex University and a Computer Science graduate. I also program... sometimes! 
 
 ## Important Links
 
